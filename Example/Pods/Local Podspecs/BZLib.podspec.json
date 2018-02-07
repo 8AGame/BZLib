@@ -1,0 +1,22 @@
+{
+  "name": "BZLib",
+  "version": "0.1.0",
+  "summary": "A short description of BZLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/8AGame/BZLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "8AGame": "huangyixian@yodo1.com"
+  },
+  "source": {
+    "git": "https://github.com/8AGame/BZLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BZLib/Classes/**/*"
+}
